@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjitha5559" alt="anjitha5559" /></a> </p>
 
-- 🔭 I’m currently working on [Tic_Tac_Toe](https://github.com/Anjitha5559/Tic_Tac_Toe)
+- 🔭 I’m currently working on [MyPortifolio](https://github.com/Anjitha5559/MyPortifolio)
 
 - 🌱 I’m currently learning **Flutter, Svelte**
 
